@@ -1,6 +1,6 @@
 ### Hi I'm Bima
 
-<img src="bg1.JPG" alt="Alt text" title="Optional title">
+![bg1](bg1.JPG)
 
 <!--
 **BEM28/BEM28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
