@@ -1,4 +1,4 @@
-<img src="nama.jpg" title="hover text">
+<img src="nama.png" title="hover text">
 
 🔭 Institut Bina Sarana Global <br>
 🌱 Focus on Flutter
