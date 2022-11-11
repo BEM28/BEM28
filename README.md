@@ -4,6 +4,8 @@
 🔭 Institut Bina Sarana Global <br>
 🌱 Focus on Flutter
 
+<img src="BEM28/bg.jpg" width="350" title="hover text">
+
 
 <!--
 **BEM28/BEM28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
