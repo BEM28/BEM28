@@ -1,5 +1,5 @@
 <img src="bg1.jpg" title="hover text">
-### Hi I'm Bima.....
+#Hi I'm Bima.....
 
 
 🔭 Institut Bina Sarana Global <br>
