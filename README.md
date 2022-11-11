@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi I'm Bima
+
+<img src=”https://firebasestorage.googleapis.com/v0/b/bemstorage-62818.appspot.com/o/bem_files%2Fbg1.jpg?alt=media&token=d174c850-3014-45e0-9d43-83ac84b055d5”>
 
 <!--
 **BEM28/BEM28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
