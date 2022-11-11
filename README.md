@@ -4,7 +4,7 @@
 🔭 Institut Bina Sarana Global <br>
 🌱 Focus on Flutter
 
-<img src="bg1.jpg" width="350" title="hover text">
+<img src="bg1.jpg" title="hover text">
 
 
 <!--
