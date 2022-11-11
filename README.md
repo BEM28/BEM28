@@ -1,6 +1,4 @@
-<img src="bg1.jpg" title="hover text">
-#Hi I'm Bima.....
-
+<img src="nama.jpg" title="hover text">
 
 🔭 Institut Bina Sarana Global <br>
 🌱 Focus on Flutter
