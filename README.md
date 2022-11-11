@@ -1,6 +1,9 @@
-### Hi I'm Bima
+### Hi I'm Bima.....
 
-![bg1](bg1.JPG)
+
+🔭 Institut Bina Sarana Global <br>
+🌱 Focus on Flutter
+
 
 <!--
 **BEM28/BEM28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
