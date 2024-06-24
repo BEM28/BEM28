@@ -1,3 +1,5 @@
+[![](https://raw.githubusercontent.com/Bima/Bima/master/profile.gif)](https://www.adamalston.com/)
+
 
 🔭 Institut Bina Sarana Global <br>
 🌱 Focus on Flutter
