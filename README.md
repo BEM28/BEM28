@@ -1,4 +1,4 @@
-[![](https://raw.githubusercontent.com/BEM28/BEM28/master/profile.gif)](https://www.BEM28.com/)
+
 
 
 🔭 Institut Bina Sarana Global <br>
