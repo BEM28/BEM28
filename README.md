@@ -1,4 +1,3 @@
-[<img src="https://raw.githubusercontent.com/Bima Aprie Yudha/Bima Aprie Yudha/master/intro.gif" alt="👋 Hi there! I'm (Bima Aprie Yudha)" title="👋 Hi there! I'm (Bima Aprie Yudha)"/>]
 
 🔭 Institut Bina Sarana Global <br>
 🌱 Focus on Flutter
