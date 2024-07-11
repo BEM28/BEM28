@@ -1,6 +1,6 @@
 ```cmd
 D:\ dart run Bima_Aprie_Yudha/main.dart
-Hi, welcome to my Github profile. My name is Bima Aprie Yudha, I'm a Flutter Developer :wave:.
+Hi, welcome to my Github profile. My name is Bima Aprie Yudha, I'm a Flutter Developer.👋👋👋
 ```
 
 
