@@ -1,7 +1,6 @@
 
 ```dart
-"use creativity";
-import { Person } from "indonesia";
+import 'package:Person/from/Indonesia';
 
 new Person({
   name: "Bima Aprie Yudha",
