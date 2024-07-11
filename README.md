@@ -1,5 +1,5 @@
 ```cmd
-D:\Deri-Kurniawan> node index.js
+D:\ dart run Bima_Aprie_Yudha/main.dart
 Hi, welcome to my Github profile. My name is Bima Aprie Yudha, I'm a Flutter Developer :wave:.
 ```
 
