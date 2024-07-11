@@ -16,6 +16,6 @@ new Person({
 }).introduce();
 ```
 
-[![GitHub top language](https://img.shields.io/github/languages/top/Codelessly/ResponsiveFramework.svg?style=flat-square)] [![Flutter Responsive](https://img.shields.io/badge/flutter-responsive-brightgreen.svg?style=flat-square)] [![Awesome Flutter](https://img.shields.io/badge/Awesome-Flutter-blue.svg?longCache=true&style=flat-square)] 
+[GitHub top language](https://img.shields.io/github/languages/top/Codelessly/ResponsiveFramework.svg?style=flat-square) [Flutter Responsive](https://img.shields.io/badge/flutter-responsive-brightgreen.svg?style=flat-square) [Awesome Flutter]
 
 <!--
