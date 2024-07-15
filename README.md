@@ -15,8 +15,14 @@ Person(
   email: "aprieyudha.bima@gmail.com",
 ),
 ```
-
-# Programming languages
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,dart)](https://skillicons.dev)
+# Technologies & Tools 🛠️
+## Programming languages
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,express,dart,kotlin)](https://skillicons.dev)
+## Libraries & Framework
+[![My Skills](https://skillicons.dev/icons?i=flutter,laravel)](https://skillicons.dev)
+## Database
+[![My Skills](https://skillicons.dev/icons?i=firebase,mysql)](https://skillicons.dev)
+## Software and tools
+[![My Skills](https://skillicons.dev/icons?i=vscode,figma,androidstudio,postman,xd)](https://skillicons.dev)
 
 
