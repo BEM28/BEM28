@@ -18,7 +18,7 @@ Person(
 # Technologies & Tools 🛠️
 
 ## Programming languages ##
-[![My Skills](https://skillicons.dev/icons?i=js,php,express,dart,kotlin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,express,dart,kotlin)](https://skillicons.dev)
 ## Libraries & Framework
 [![My Skills](https://skillicons.dev/icons?i=flutter,laravel,nextjs)](https://skillicons.dev)
 ## Database
