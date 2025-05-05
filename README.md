@@ -1,29 +1,8 @@
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <!-- Kiri: Text dan Dart Code -->
-  <div style="flex: 1; padding-right: 16px;">
-    <pre><code>
-D:\ dart run Bima_Aprie_Yudha/main.dart
-Hi, welcome to my Github profile. My name is Bima Aprie Yudha, I'm a Flutter Developer.👋👋👋
-    </code></pre>
+<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW43M2dzZjBydW1hdXUyZWNsNHRnaTdycjM3aXMxZDRscWNlMXJhZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KGd6ns7MR1gPCRT52z/giphy.gif"  />
 
-    <pre><code class="language-dart">
+###
 
-import 'package:Person/from/Indonesia';
-
-Person(
-name: "Bima Aprie Yudha",
-title: "Flutter Developer",
-email: "aprieyudha.bima@gmail.com",
-);
-</code></pre>
-
-  </div>
-
-  <!-- Kanan: GIF -->
-  <div style="flex: 1; text-align: center;">
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW43M2dzZjBydW1hdXUyZWNsNHRnaTdycjM3aXMxZDRscWNlMXJhZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KGd6ns7MR1gPCRT52z/giphy.gif" style="max-width: 100%; height: auto; border-radius: 12px;" />
-  </div>
-</div>
+<h2 align="left">Hi, welcome to my Github profile. My name is Bima Aprie Yudha, I'm a Flutter Developer.👋👋👋</h2>
 
 ###
 
