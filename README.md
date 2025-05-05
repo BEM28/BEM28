@@ -1,11 +1,14 @@
-<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW43M2dzZjBydW1hdXUyZWNsNHRnaTdycjM3aXMxZDRscWNlMXJhZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KGd6ns7MR1gPCRT52z/giphy.gif"  />
+<div align="center" style="display: flex; flex-direction: row; flex-wrap: wrap-reverse; align-items: center; justify-content: space-between;">
+  <div style="flex: 1 1 300px; min-width: 250px; text-align: left;">
+    <h3 style="margin: 0;">
+      Hi, welcome to my Github profile. My name is Bima Aprie Yudha, I'm a Flutter Developer. 👋👋👋
+    </h3>
+  </div>
+  <div style="flex: 0 0 auto; text-align: center; margin-bottom: 10px;">
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW43M2dzZjBydW1hdXUyZWNsNHRnaTdycjM3aXMxZDRscWNlMXJhZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KGd6ns7MR1gPCRT52z/giphy.gif" style="width: 200px; max-width: 100%; height: auto; border: none;" />
+  </div>
+</div>
 
-###
-
-<h3 align="left">Hi, welcome to my Github profile. My name is Bima Aprie Yudha, I'm a Flutter Developer.👋👋👋</h2>
-<br clear="both">
-<br clear="both">
-<br clear="both">
 <div align="center">
   <img src="https://profile-counter.glitch.me/BEM28/count.svg?"  />
 </div>
