@@ -3,9 +3,6 @@
 ###
 
 <h2 align="left">Hi, welcome to my Github profile. My name is Bima Aprie Yudha, I'm a Flutter Developer.👋👋👋</h2>
-
-###
-
 <br clear="both">
 
 <div align="center">
