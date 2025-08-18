@@ -6,10 +6,6 @@
   </div>
 </div>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/BEM28/count.svg?"  />
-</div>
-
 ###
 
 <br clear="both">
