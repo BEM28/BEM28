@@ -42,8 +42,9 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BEM28&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="BEM28 GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BEM28&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BEM28&theme=tokyonight" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BEM28&theme=tokyonight" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BEM28&theme=tokyonight" alt="Most Commit Language" />
 </div>
 
 <div align="center">
