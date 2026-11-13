@@ -1,27 +1,51 @@
+<div align="center">
+  <!-- Typing SVG Header -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Bima+Aprie+Yudha+%F0%9F%91%8B;Software+QA+%26+Test+Automation+Engineer;Web+%7C+Android+%7C+iOS+Testing" alt="Typing SVG" />
+  </a>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bimaaprie) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bima-aprie-yudha-a46019195) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aprieyudha.bima@gamail.com) 
-
-# 💻 Tech Stack:
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=BEM28&theme=moltack&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=BEM28&theme=moltack&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=BEM28&theme=moltack&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+  <p align="center">
+    <a href="https://bimaaprieyudha.my.id" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-bimaaprieyudha.my.id-0F172A?style=for-the-badge&logo=google-chrome&logoColor=38BDF8" alt="Website" />
+    </a>
+    <a href="https://github.com/BEM28">
+      <img src="https://img.shields.io/badge/GitHub-BEM28-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+  </p>
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=BEM28&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-###
+### 👨‍💻 About Me
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BEM28/BEM28/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BEM28/BEM28/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/BEM28/BEM28/output/pacman-contribution-graph.svg">
-</picture>
+- 🔍 Focused on **Software Quality Assurance** across **Web, Android, and iOS** platforms.
+- ⚙️ Experienced in UI state verification, iOS deep linking, and mobile app build testing (Google Play & App Store).
+- 🚀 Exploring end-to-end test automation and SaaS product development.
+- 🌐 Check out my personal site at **[bimaaprieyudha.my.id](https://bimaaprieyudha.my.id)**.
 
-###
+---
+
+### 🛠️ Tech Stack & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iOS" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BEM28&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="BEM28 GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BEM28&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=BEM28&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
